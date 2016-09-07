@@ -1,0 +1,12 @@
+.toolbar a {
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.toolbar {
+    padding-bottom: 10px;
+    padding-left: 0px;
+    padding-top: 10px;
+    padding-right: 0px;
+}

@@ -1,0 +1,1 @@
+<h2>Nhấn vào đây để reset mật khẩu: {{ action('Auth\PasswordController@getReset',['token' => $token])  }}</h2>

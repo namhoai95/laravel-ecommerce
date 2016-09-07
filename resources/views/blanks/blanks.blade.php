@@ -1,0 +1,1 @@
+Cảm ơn {{ $name }} đã góp ý cho chúng tôi. Chúng tôi sẽ liên lạc với bạn sớm nhất.
